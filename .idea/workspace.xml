@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f87d9bc-2222-4d32-8f6a-d081957d6698" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css-resume/images/profile.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css-resume/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css-resume/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -15,18 +18,36 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Programming fundamentals/ch11/Tracing Example/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.69723535">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/css-resume/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="369">
+                  <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/css-resume/css/styles.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="159">
+                  <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,6 +72,9 @@
         <option value="$PROJECT_DIR$/Programming fundamentals/ch10/DOM Example/script.js" />
         <option value="$PROJECT_DIR$/Programming fundamentals/ch10/Event Example/script.js" />
         <option value="$PROJECT_DIR$/Programming fundamentals/ch11/Tracing Example/script.js" />
+        <option value="$PROJECT_DIR$/css-resume/styles.css" />
+        <option value="$PROJECT_DIR$/css-resume/index.html" />
+        <option value="$PROJECT_DIR$/css-resume/css/styles.css" />
       </list>
     </option>
   </component>
@@ -61,11 +85,13 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1682" />
-    <option name="width" value="1703" />
+    <option name="x" value="1672" />
+    <option name="width" value="1713" />
     <option name="height" value="1447" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -81,8 +107,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -101,6 +127,57 @@
               <item name="CSS Essential Training 1" type="462c0819:PsiDirectoryNode" />
               <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="codebase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codebase" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS Essential Training 1" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codebase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codebase" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS Essential Training 1" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codebase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codebase" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS Essential Training 1" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_04" type="462c0819:PsiDirectoryNode" />
+              <item name="css-resume" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codebase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codebase" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS Essential Training 1" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_04" type="462c0819:PsiDirectoryNode" />
+              <item name="css-resume" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codebase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codebase" type="462c0819:PsiDirectoryNode" />
+              <item name="css-resume" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codebase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codebase" type="462c0819:PsiDirectoryNode" />
+              <item name="css-resume" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codebase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codebase" type="462c0819:PsiDirectoryNode" />
+              <item name="css-resume" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -111,15 +188,18 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
-    <property name="last_opened_file_path" value="D:/Program Files/Git/cmd/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css-resume/css" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\LyndaTraining\codebase\css-resume\Pictures" />
+      <recent name="H:\LyndaTraining\codebase\css-resume" />
       <recent name="H:\LyndaTraining\codebase\Programming fundamentals\ch10\Event Example" />
       <recent name="H:\LyndaTraining\codebase\Programming fundamentals\ch07\Regular Expressions" />
       <recent name="H:\LyndaTraining\codebase\Programming fundamentals\ch07" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\LyndaTraining\codebase\css-resume\css" />
       <recent name="H:\LyndaTraining\codebase\Programming fundamentals\ch07\Strings" />
     </key>
   </component>
@@ -147,17 +227,18 @@
       <updated>1507161318958</updated>
       <workItem from="1507161320491" duration="9754000" />
       <workItem from="1507251419514" duration="3194000" />
-      <workItem from="1508195156620" duration="1260000" />
+      <workItem from="1508195156620" duration="3168000" />
+      <workItem from="1508369550990" duration="9790000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14208000" />
+    <option name="totallyTimeSpent" value="25906000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1682" y="0" width="1703" height="1447" extended-state="0" />
+    <frame x="1672" y="0" width="1713" height="1447" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20509781" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12610489" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -186,11 +267,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Programming fundamentals/ch11/Tracing Example/script.js">
+    <entry file="file://$PROJECT_DIR$/css-resume/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming fundamentals/ch11/Tracing Example/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -388,7 +476,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1" column="44" lean-forward="true" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -403,7 +490,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -411,6 +497,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS Essential Training 1/Exercise Files/Ch03/03_07/css-resume/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS Essential Training 1/Exercise Files/Ch03/03_04/css-resume/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css-resume/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css-resume/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
