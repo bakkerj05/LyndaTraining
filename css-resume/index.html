@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <script src="https://use.fontawesome.com/b7fa28f156.js"></script>
+
     <meta charset="UTF-8">
     <!-- viewport tag is for more responsive layouts to make sure css on mobile devices are rendered properly -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,7 +12,14 @@
 </head>
 <body>
     <!-- // Intro -->
-    <header>
+    <header id="about">
+        <a href="resume.pdf" class="btn download" download>Download PDF</a>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#work">Work Experience</a>
+            <a href="#education">Education</a>
+            <a href="#contact">Contact</a>
+        </nav>
         <div class="content-wrap">
             <img class="profile-img col-narrow" src="images/square_profile_centered.jpg" alt="Jonathan">
             <div class="col-wide">
@@ -23,18 +32,18 @@
     
     <main> 
         <!-- // Work Experience -->
-        <section class="work">
+        <section class="work" id="work">
             <div class="content-wrap">
                 <h2>Work Experience</h2>
 
                 <!-- Job Details: copy this whole block to add more jobs -->
                 <div class="col-narrow">
                     <h3>Software Developer and Integrator</h3>
-                    <p>USAA</p>
+                    <p class="uppercase">USAA</p>
                     <p>2014 - present</p>
                 </div>
                 <!-- Add as many paragraphs as you need. -->
-                <div class="col-wide">
+                <div class="col-wide job-description">
                     <p>Ranged from ETL with Datastage to Fraud case and alert management with Actimize</p>
 
                     <!-- This list can be deleted if you don't want to use it. -->
@@ -46,21 +55,42 @@
                     </ul>
                     <!-- end of Job Details block. -->
                 </div>
+
+                <!-- Job Details: copy this whole block to add more jobs -->
+                <div class="col-narrow">
+                    <h3>Interior Communications Electrician</h3>
+                    <p class="uppercase">United States Navy</p>
+                    <p>2005 - 2009</p>
+                </div>
+                <!-- Add as many paragraphs as you need. -->
+                <div class="col-wide job-description">
+                    <p>Maintained all interior communicaitons devices just as phones, PA system, tv and sound powered phones.</p>
+                    <p>Also handled alarm systems such as fire, flooding, and toxic gas</p>
+                    <p>There was also navigational gear that was also under my area of responsiblity such as the secondary gyro and plotter system</p>
+                    <!-- end of Job Details block. -->
+                </div>
             </div>
         </section>
 
 
         <!-- // Education -->
-        <section class="education">
+        <section class="education" id="education">
             <div class="content-wrap">
                 <h2>Education</h2>
 
                 <!-- School details: copy this whole block to add more schools. -->
                 <h3>University of Texas at Dallas, 2009-14</h3>
                 <p>Computer Science Degree</p>
-
-                <!-- Add as many paragraphs as you need. -->
                 <p>Learned stuff.</p>
+
+                <h3>United States Navy, 2005-09</h3>
+                <p>Interior Communications Electrician</p>
+                <p>Troubhle shot a lot, shocked myself and chatted :P</p>
+
+                <h3>North Garland High School, 2001-05</h3>
+                <p>Math Science and Technology student</p>
+                <p>HTML, Robotics, Cisco Routing, etc.</p>
+
                 <!-- End of school details. -->
             </div>
         </section>
@@ -68,16 +98,16 @@
     
     <!-- // Footer & contact info -->
     <footer>
-        <div class="content-wrap">
+        <div class="content-wrap" id="contact">
             <h2>Let's Keep in Touch!</h2>
 
             <!-- Social media and contact links. Add or remove any networks. -->
             <div class="contact-info">
                 <a href="mailto:email@example.com">email@example.com</a>
                 <a href="http://yourwebsite.com" target="_blank">yourwebsite.com</a>
-                <a href="#" target="_blank">Twitter</a>
-                <a href="#" target="_blank">LinkedIn</a>
-                <a href="#" target="_blank">Facebook</a>
+                <a href="#" target="_blank"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i><span class="sr-only">Twitter</span></a>
+                <a href="#" target="_blank"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i><span class="sr-only">LinkedIn</span></a>
+                <a href="#" target="_blank"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i><span class="sr-only">Facebook</span></a>
             </div>
 
             <p>Copyright 2017 by Jonathan</p>

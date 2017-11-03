@@ -31,23 +31,22 @@ body {
 .content-wrap {
     max-width: 950px;
     margin: 0 auto;
-    padding: 50px;
+    padding: 60px 50px;
     /* make sure floating object don't
     exceed parent size    */
     overflow: auto;
 }
-.col-narrow {
-    width: 30%;
-    float: left;
-    min-height: 175px;
+
+.uppdercase {
+    text-transform: uppercase;
 }
-.col-wide {
-    width: 70%;
-    float: left;
-    padding-left: 20px;
-    /* makes sure we don't get 2 wides
-    in 1 narrow */
-    min-height: 175px;
+
+.btn {
+    text-decoration: none;
+    background: #EF233C;
+    color: white;
+    padding: 10px;
+    display: inline-block;
 }
 
 h1, h2 {
@@ -61,6 +60,9 @@ h2 {
     font-size: 40px;
     margin-top: 0;
 }
+h3 {
+    margin: 0;
+}
 
 a {
     color: #EF233C;
@@ -70,8 +72,30 @@ a:hover {
 }
 
 /***********************
+* Navigation
+************************/
+nav {
+    text-align: center;
+    background: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+nav a {
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+/***********************
 * Header and Footer
 ************************/
+header {
+    padding-top: 50px;
+    position: relative;
+}
 header, footer {
     background: #2B2D42;
     color: #8D99AE;
@@ -80,9 +104,12 @@ header, footer {
 .profile-img {
     border-radius: 50%;
 }
-header {
-
+.download{
+    position: absolute;
+    bottom: 0;
+    right: 0;
 }
+
 header h1, header h2 {
     color: #EDF2F4;
     margin: 0;
@@ -102,7 +129,50 @@ footer {
 .work {
     background: #EDF2F4;
 }
+h3 ~ p {
+    margin: 0;
+}
+.job-description {
+    margin-bottom: 25px;
+}
+.job-description p:first-of-type {
+    margin-top: 0;
+}
+
+/***********************
+* Education
+************************/
 
 .education {
     background: #8D99AE;
+    background: linear-gradient(rgba(141, 153, 174, 0.8),rgba(141, 153, 174, 0.5)),
+    url(../images/books_widescreen.jpg) no-repeat;
+    background-size: cover;
+}
+p + h3 {
+    margin-top: 30px;
+}
+
+/***********************
+* Media Queries
+************************/
+@media (min-width: 900px) {
+    .col-narrow {
+        width: 30%;
+        float: left;
+    }
+    .col-wide {
+        width: 70%;
+        float: left;
+        padding-left: 20px;
+    }
+}
+
+@media (max-width: 899px) {
+    header {
+        text-align: center;
+    }
+    .profile-img {
+        width: 200px;
+    }
 }
