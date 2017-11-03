@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5f87d9bc-2222-4d32-8f6a-d081957d6698" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css-resume/css/styles.css" afterPath="$PROJECT_DIR$/css-resume/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css-resume/index.html" afterPath="$PROJECT_DIR$/css-resume/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,36 +16,78 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5661451">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/css-resume/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="315">
-                  <caret line="15" column="75" lean-forward="false" selection-start-line="15" selection-start-column="75" selection-end-line="15" selection-end-column="75" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/css-resume/css/styles.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-536">
-                  <caret line="87" column="30" lean-forward="true" selection-start-line="87" selection-start-column="30" selection-end-line="87" selection-end-column="30" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="lab_instructions.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_03/03_09/lab_instructions.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="intro.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_03/03_09/intro.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="13" column="82" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="links.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_03/03_09/links.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="4" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="next.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_03/03_09/next.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="82" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reference.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_03/03_09/reference.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="13" column="82" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="structure.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_03/03_09/structure.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="67" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="syntax.htm" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_03/03_09/syntax.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="472">
+              <caret line="34" column="79" lean-forward="true" selection-start-line="34" selection-start-column="79" selection-end-line="34" selection-end-column="79" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -74,6 +115,15 @@
         <option value="$PROJECT_DIR$/css-resume/styles.css" />
         <option value="$PROJECT_DIR$/css-resume/css/styles.css" />
         <option value="$PROJECT_DIR$/css-resume/index.html" />
+        <option value="$PROJECT_DIR$/HTML Essentials/Chapter_01/01_02/syntax.htm" />
+        <option value="$PROJECT_DIR$/HTML Essentials/Chapter_03/03_06/finished_files/special.htm" />
+        <option value="$PROJECT_DIR$/HTML Essentials/Chapter_03/03_06/special.htm" />
+        <option value="$PROJECT_DIR$/HTML Essentials/Chapter_03/03_09/structure.htm" />
+        <option value="$PROJECT_DIR$/HTML Essentials/Chapter_03/03_09/syntax.htm" />
+        <option value="$PROJECT_DIR$/HTML Essentials/Chapter_03/03_09/reference.htm" />
+        <option value="$PROJECT_DIR$/HTML Essentials/Chapter_03/03_09/next.htm" />
+        <option value="$PROJECT_DIR$/HTML Essentials/Chapter_03/03_09/links.htm" />
+        <option value="$PROJECT_DIR$/HTML Essentials/Chapter_03/03_09/intro.htm" />
       </list>
     </option>
   </component>
@@ -84,10 +134,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1672" />
-    <option name="y" value="1" />
-    <option name="width" value="1713" />
-    <option name="height" value="1446" />
+    <option name="x" value="1682" />
+    <option name="width" value="1703" />
+    <option name="height" value="1447" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -107,7 +156,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,94 +166,139 @@
             <path>
               <item name="codebase" type="b2602c69:ProjectViewProjectNode" />
               <item name="codebase" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS Essentail Training 2" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML Essentials" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codebase" type="b2602c69:ProjectViewProjectNode" />
               <item name="codebase" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS Essentail Training 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML Essentials" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_03" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codebase" type="b2602c69:ProjectViewProjectNode" />
               <item name="codebase" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS Essentail Training 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML Essentials" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codebase" type="b2602c69:ProjectViewProjectNode" />
               <item name="codebase" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS Essentail Training 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
-              <item name="02_05" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML Essentials" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codebase" type="b2602c69:ProjectViewProjectNode" />
               <item name="codebase" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS Essentail Training 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
-              <item name="02_05" type="462c0819:PsiDirectoryNode" />
-              <item name="css-resume" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML Essentials" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_02" type="462c0819:PsiDirectoryNode" />
+              <item name="finished_files" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codebase" type="b2602c69:ProjectViewProjectNode" />
               <item name="codebase" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS Essentail Training 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
-              <item name="02_07" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML Essentials" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_03" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codebase" type="b2602c69:ProjectViewProjectNode" />
               <item name="codebase" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS Essentail Training 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
-              <item name="02_07" type="462c0819:PsiDirectoryNode" />
-              <item name="css-resume" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML Essentials" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_03" type="462c0819:PsiDirectoryNode" />
+              <item name="finished_files" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codebase" type="b2602c69:ProjectViewProjectNode" />
               <item name="codebase" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS Essentail Training 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
-              <item name="02_08" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML Essentials" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_04" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codebase" type="b2602c69:ProjectViewProjectNode" />
               <item name="codebase" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS Essentail Training 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
-              <item name="02_08" type="462c0819:PsiDirectoryNode" />
-              <item name="css-resume" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML Essentials" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_04" type="462c0819:PsiDirectoryNode" />
+              <item name="finished_files" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codebase" type="b2602c69:ProjectViewProjectNode" />
               <item name="codebase" type="462c0819:PsiDirectoryNode" />
-              <item name="css-resume" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML Essentials" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_05" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codebase" type="b2602c69:ProjectViewProjectNode" />
               <item name="codebase" type="462c0819:PsiDirectoryNode" />
-              <item name="css-resume" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML Essentials" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_05" type="462c0819:PsiDirectoryNode" />
+              <item name="finished_files" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codebase" type="b2602c69:ProjectViewProjectNode" />
               <item name="codebase" type="462c0819:PsiDirectoryNode" />
-              <item name="css-resume" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML Essentials" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codebase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codebase" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML Essentials" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_06" type="462c0819:PsiDirectoryNode" />
+              <item name="finished_files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codebase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codebase" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML Essentials" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_07" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codebase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codebase" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML Essentials" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_07" type="462c0819:PsiDirectoryNode" />
+              <item name="finished_files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codebase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codebase" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML Essentials" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_08" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codebase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codebase" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML Essentials" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_09" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codebase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codebase" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML Essentials" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_09" type="462c0819:PsiDirectoryNode" />
+              <item name="finished_files" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -214,18 +307,22 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/css-resume/css" />
     <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="H:\LyndaTraining\codebase\css-resume\css" />
-      <recent name="H:\LyndaTraining\codebase\Programming fundamentals\ch07\Strings" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="H:\LyndaTraining\codebase\css-resume" />
       <recent name="H:\LyndaTraining\codebase\css-resume\Pictures" />
       <recent name="H:\LyndaTraining\codebase\Programming fundamentals\ch10\Event Example" />
       <recent name="H:\LyndaTraining\codebase\Programming fundamentals\ch07\Regular Expressions" />
       <recent name="H:\LyndaTraining\codebase\Programming fundamentals\ch07" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\LyndaTraining\codebase\HTML Essentials\Chapter_03\03_01" />
+      <recent name="H:\LyndaTraining\codebase\HTML Essentials\Chapter_02\02_04" />
+      <recent name="H:\LyndaTraining\codebase\HTML Essentials\Chapter_02\02_03" />
+      <recent name="H:\LyndaTraining\codebase\HTML Essentials\Chapter_02\02_02" />
+      <recent name="H:\LyndaTraining\codebase\HTML Essentials\Chapter_01" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -257,11 +354,12 @@
       <workItem from="1508702804713" duration="1382000" />
       <workItem from="1508716632511" duration="8360000" />
       <workItem from="1509054977791" duration="2343000" />
+      <workItem from="1509668770417" duration="5153000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37991000" />
+    <option name="totallyTimeSpent" value="43144000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -273,11 +371,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1672" y="1" width="1713" height="1446" extended-state="0" />
+    <frame x="1682" y="0" width="1703" height="1447" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16059701" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16156156" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951945" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26392066" sideWeight="0.50208956" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26392066" sideWeight="0.49791044" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24955224" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -289,7 +388,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -325,161 +423,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css-resume/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2100">
-          <caret line="100" column="47" lean-forward="true" selection-start-line="100" selection-start-column="47" selection-end-line="100" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css-resume/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css-resume/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css-resume/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css-resume/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css-resume/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css-resume/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming fundamentals/ch11/Tracing Example/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming fundamentals/ch07/Regular Expressions/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming fundamentals/ch08/Array iteration/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming fundamentals/ch02/First/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="21" lean-forward="true" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming fundamentals/ch02/First/container.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming fundamentals/ch02/Input_complete/script.js" />
-    <entry file="file://$PROJECT_DIR$/Programming fundamentals/ch02/Input/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming fundamentals/ch02/Input/container.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming fundamentals/ch03/Comments/container.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming fundamentals/ch03/Comments/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming fundamentals/ch03/Numbers/container.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming fundamentals/ch03/Numbers/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming fundamentals/ch03/Whitespace/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming fundamentals/ch04/Complex Conditions/container.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming fundamentals/ch04/Complex Conditions/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Programming fundamentals/ch04/Comparison Operators/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -622,16 +565,248 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css-resume/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="75" lean-forward="false" selection-start-line="15" selection-start-column="75" selection-end-line="15" selection-end-column="75" />
+        <state relative-caret-position="619">
+          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css-resume/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-536">
-          <caret line="87" column="30" lean-forward="true" selection-start-line="87" selection-start-column="30" selection-end-line="87" selection-end-column="30" />
+        <state relative-caret-position="21">
+          <caret line="87" column="30" lean-forward="false" selection-start-line="87" selection-start-column="30" selection-end-line="87" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_01/syntax.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="56" lean-forward="false" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_01/syntax.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="92" lean-forward="false" selection-start-line="0" selection-start-column="92" selection-end-line="0" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_02/02_01/structure.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_02/02_02/doctype.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_02/02_02/doctype.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_02/02_03/head.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_02/02_03/head.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_02/02_04/body.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_03/03_01/format.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_03/03_01/format.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_02/02_05/models.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_02/02_04/body.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_03/03_02/headings.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_03/03_02/finished_files/headings.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_03/03_03/finished_files/paragraphs.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_03/03_03/paragraphs.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_03/03_04/finished_files/breaks.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_03/03_05/finished_files/emphasis.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_03/03_06/special.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="68" lean-forward="true" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_03/03_06/finished_files/special.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_03/03_07/finished_files/whitespace.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_03/03_09/lab_instructions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_03/03_09/structure.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="67" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_03/03_09/reference.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="82" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_03/03_09/next.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="82" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_03/03_09/links.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="4" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_03/03_09/intro.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="82" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_03/03_09/finished_files/reference.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Essentials/Chapter_03/03_09/syntax.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="34" column="79" lean-forward="true" selection-start-line="34" selection-start-column="79" selection-end-line="34" selection-end-column="79" />
           <folding />
         </state>
       </provider>
